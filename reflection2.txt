@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> ICT E-Portfolio 2nd Quarter Reflection </title>
+</head>
+<style>
+body {
+  background-image: url('ascent.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<body>
+<table border="1">
+<tr>
+<th>
+<audio controls loop>
+  <source src="shewillbeloved.mp3" type="audio/mpeg">
+</audio>
+</th>
+</tr>
+</table>
+<table border="1">
+<tr>
+<th>
+<a href="ICT E-PORTFOLIO2.html" target="_parent"> <font color="white" size="5">  Back To <b> HOME PAGE </b> </font> </a>
+</th>
+</tr>
+</table>
+<p style="color:white;font-family:Impact; font-size:90px;" align="center"> <b> REFLECTION </b> </p>
+<br>‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎‎ ‎‎ ‎  ‎‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  ‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎‎ ‎  
+<img src="sleep.jpg" alt="sleeping friends" width="400" height"200"> </img>
+<p style="color:white;font-family:Impact; font-size:20px;" align="center"> <i> My friends taking a "nap" after an ICT one-whole activity </i> </p>
+<br> <br>
+<p style="color:white;font-family:Impact; font-size:15px;" align="center"> The 2nd Quarter of ICT was very similar to the 1st, allbeit a little bit more complicated,
+it was still very enjoyable because we got to learn CSS. I am very content with purely HTML,<br> but the addition of CSS made my creativity flourish. I can clearly say that my
+E-Portfolio this quarter is far better than my 1st Quarter E-Portfolio. I am very grateful for Mrs. Uminga <br> for making her lessons fun and easy to understand, and I appreciate
+all of the efforts she does for us. Hopefully my skills in ICT can ascend even more in the next quarter, <br> just like how my skills improved from the 1st Quarter to the 2nd. </p>
+</body>
+</html>
